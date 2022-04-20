@@ -1,0 +1,16 @@
+<svg width="14" height="10" viewBox="0 0 14 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>social_youtube</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-53 -238)">
+<g id="social_youtube">
+<g id="Group">
+<g id="Vector">
+<use xlink:href="#path0_fill" transform="translate(53 238)" fill="#997FBC"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 12.1053 0.184317C 8.91788 -0.031104 5.13899 -0.090015 1.89294 0.184317C 0.885007 0.297743 0.194675 1.53048 0.11943 2.4669C -0.03981 4.43383 -0.03981 5.55313 0.11943 7.52006C 0.19555 8.45648 0.868383 9.69625 1.89382 9.82638C 5.17836 10.0427 8.938 10.0726 12.1062 9.82638C 13.0984 9.65317 13.8045 8.45648 13.8806 7.52006C 14.0398 5.55313 14.0398 4.31161 13.8806 2.3438C 13.8036 1.40738 13.2471 0.226522 12.1053 0.184317ZM 5.24923 7.48841L 5.24923 2.4458L 9.62396 4.96754L 5.24923 7.48841Z"/>
+</defs>
+</svg>
